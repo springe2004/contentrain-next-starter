@@ -1,0 +1,11 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "sdfsdf",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
